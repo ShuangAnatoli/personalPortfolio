@@ -6,7 +6,7 @@ export default function robots() {
       {
         userAgent: '*',
       },
-    // ],
-    // sitemap: `${baseUrl}/sitemap.xml`,
+    ],
+    sitemap: `https://portfolio-blog-starter.vercel.app/sitemap.xml`,
   }
 }
