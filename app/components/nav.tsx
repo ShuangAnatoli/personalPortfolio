@@ -4,9 +4,9 @@ const navItems = {
   '/': {
     name: 'home',
   },
-  '/blog': {
-    name: 'projects',
-  },
+  // '/blog': {
+  //   name: 'projects',
+  // },
   'https://drive.google.com/file/d/1SMCug9tdn9PeHQhHFA7qrO4hVel8DZ1W/view?usp=drive_link': {
     name: 'resume',
   },
